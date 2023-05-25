@@ -1,0 +1,19 @@
+.droppable{
+    padding: 15px;
+    background-repeat: 5px;
+    background: #2c3e50;
+    margin-bottom: 10px;
+}
+.droppable p {
+    color: white;
+}
+
+.draggable {
+    background: white;
+    padding: 5px;
+    background-repeat: 5px;
+    margin-bottom: 5px;
+}
+.draggable p {
+    color: black;
+}
